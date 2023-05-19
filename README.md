@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yunier, better known as @circleupx
+- 👋 Hi, I’m Yunier, better known as [@circleupx](https://github.com/circleupx/)
 - 👀 I’m interested in Software Development, Test Driven Development, and Software Architecure
 - 🌱 I’m currently learning about Optic and API test contract frameworks
 - 💞️ I’m looking to collaborate on any projects that use C# & TypeScript
