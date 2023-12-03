@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunier, better known as [@circleupx](https://github.com/circleupx/)
 - 👀 I’m interested in Software Development, Test Driven Development, SaaS, and Software Architecture
-- 🌱 I’m currently learning about distributed systems.
+- 🌱 I’m currently learning about distributed systems and how to build my own SaaS.
 - 💞️ I’m looking to collaborate on any projects that use C#, TypeScript, or Go
 - 📫 Best way to reach me is via email, yunier@developtive.com
 
